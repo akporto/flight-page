@@ -1,0 +1,18 @@
+footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  footer {
+    position: relative; /* altera para posição relativa para que o footer flua naturalmente no conteúdo */
+    margin-top: 20px; /* adicione espaço acima do footer para separá-lo do conteúdo */
+ font-size: 10px;
+  }
+}

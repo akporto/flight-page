@@ -1,0 +1,33 @@
+header {
+    background-color: #333; /* cor de fundo cinza grafite */
+    color: #fff; /* cor do texto branco */
+    padding: 10px;
+    text-align: left; /* alinhe o texto à esquerda */
+    display: flex; /* use flexbox para alinhar itens horizontalmente */
+    align-items: center; /* centralize verticalmente os itens */
+ 
+}
+  
+  img {
+    width: 50px; /* ajuste conforme necessário */
+    height: auto; /* mantenha a proporção da imagem */
+    margin-right: 10px;
+    filter: invert(100%);
+  }
+
+  h1 {
+    margin: 0; /* remova todas as margens do h1 para evitar espaçamento extra */
+font-size: 20px; 
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    flex-direction: column; /* alinhe verticalmente os itens */
+    text-align: center; /* centralize o texto */
+  }
+
+  img {
+    margin-right: 0; /* remova a margem à direita na versão menor da tela */
+    margin-bottom: 10px; /* adicione espaço abaixo da imagem */
+  }
+}
