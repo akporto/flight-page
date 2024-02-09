@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git@github.com:akporto/flight-page.git/static/css/main.7b21a0c2.css",
-    "main.js": "/git@github.com:akporto/flight-page.git/static/js/main.cf36c021.js",
-    "static/js/592.3c9c1f73.chunk.js": "/git@github.com:akporto/flight-page.git/static/js/592.3c9c1f73.chunk.js",
-    "static/media/airplane.png": "/git@github.com:akporto/flight-page.git/static/media/airplane.4fcd6d1b80f2e70c2ad6.png",
-    "index.html": "/git@github.com:akporto/flight-page.git/index.html",
-    "main.7b21a0c2.css.map": "/git@github.com:akporto/flight-page.git/static/css/main.7b21a0c2.css.map",
-    "main.cf36c021.js.map": "/git@github.com:akporto/flight-page.git/static/js/main.cf36c021.js.map",
-    "592.3c9c1f73.chunk.js.map": "/git@github.com:akporto/flight-page.git/static/js/592.3c9c1f73.chunk.js.map"
+    "main.css": "/git@github.com:akporto/flight-page.git/public/static/css/main.7b21a0c2.css",
+    "main.js": "/git@github.com:akporto/flight-page.git/public/static/js/main.513d4a63.js",
+    "static/js/592.3c9c1f73.chunk.js": "/git@github.com:akporto/flight-page.git/public/static/js/592.3c9c1f73.chunk.js",
+    "static/media/airplane.png": "/git@github.com:akporto/flight-page.git/public/static/media/airplane.4fcd6d1b80f2e70c2ad6.png",
+    "index.html": "/git@github.com:akporto/flight-page.git/public/index.html",
+    "main.7b21a0c2.css.map": "/git@github.com:akporto/flight-page.git/public/static/css/main.7b21a0c2.css.map",
+    "main.513d4a63.js.map": "/git@github.com:akporto/flight-page.git/public/static/js/main.513d4a63.js.map",
+    "592.3c9c1f73.chunk.js.map": "/git@github.com:akporto/flight-page.git/public/static/js/592.3c9c1f73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b21a0c2.css",
-    "static/js/main.cf36c021.js"
+    "static/js/main.513d4a63.js"
   ]
 }
